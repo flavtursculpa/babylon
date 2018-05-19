@@ -1,4 +1,4 @@
-# Babylon has been [moved into the main Babel mono-repo](https://github.com/babel/babel/tree/master/packages/babylon).
+# Babylon has been [moved into the main Babel mono-repo](https://github.com/babel/babel/tree/master/packages/babel-parser) as `@babel/parser`.
 
 The move makes it much easier to release and develop in sync with the rest of Babel!
 
